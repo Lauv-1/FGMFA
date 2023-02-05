@@ -1,3 +1,3 @@
 # FGMFA
 
-The code will be uploaded soon!
+The codes will be uploaded soon!
